@@ -14,6 +14,7 @@ I am currently a graduate student at the University of Tennessee working as a Gr
 - 🛠 I’m currently working on **Tectonify**, an AI-powered IT helpdesk solution that reduces response time and automates inquiries.
 - 🌱 I’m learning **TensorFlow** and diving deep into **Neural Networks**.
 - 👨🏻‍💻 All my contributions on GitHub are genuine.
+- 👾 Fun fact: I get rejected in all interviews(🥲).
 - 📫 How to reach me: [asharm42@vols.utk.edu](mailto:asharm42@vols.utk.edu)
 - 🚀 [My Portfolio Website is under construction, stay tuned!]
   
