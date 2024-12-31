@@ -2,7 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-ArshitaSharma-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arshita-sharma-217325132/)](https://www.linkedin.com/in/arshita-sharma-217325132/)
 [![GitHub Badge](https://img.shields.io/badge/-ArshitaSharma-black?style=flat&logo=github&logoColor=white&link=https://github.com/arshita08)](https://github.com/arshita08)
-[![Twitter Badge](https://img.shields.io/badge/-@arshita08-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/arshita08)](https://twitter.com/arshita08)
 
 ### **Glad to see you here!**  
 I am currently a graduate student at the University of Tennessee working as a Graduate Teaching Assistant at the Tickle College of Engineering. I love exploring new technologies and applying them to solve real-world problems ✨. I’m particularly passionate about **Web Development**, **Machine Learning**, and **AI-driven applications**. I also enjoy collaborating on projects, sharing knowledge, and mentoring others in the tech community 💻.
