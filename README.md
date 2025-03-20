@@ -58,4 +58,4 @@ I’m a Master’s student in Computer Science at the University of Tennessee, K
 
 ---
 
-*“Code is like poetry—elegant, efficient, and impactful when crafted with care.”*
+*“Code is like poetry elegant, efficient, and impactful when crafted with care.”*
