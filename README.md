@@ -1,41 +1,59 @@
-# Hey 👋, I'm Arshita Sharma! and you've reached my Dev space on the WWW 😊
+# Hello! I’m Arshita Sharma 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-ArshitaSharma-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arshita-sharma-217325132/)](https://www.linkedin.com/in/arshita-sharma-217325132/)
-[![GitHub Badge](https://img.shields.io/badge/-ArshitaSharma-black?style=flat&logo=github&logoColor=white&link=https://github.com/arshita08)](https://github.com/arshita08)
+[![LinkedIn Badge](https://img.shields.io/badge/-ArshitaSharma-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arshita-sharma)](https://www.linkedin.com/in/arshita-sharma)
+[![GitHub Badge](https://img.shields.io/badge/-arshita08-black?style=flat&logo=github&logoColor=white&link=https://github.com/arshita08)](https://github.com/arshita08)
 
-### **Glad to see you here!**  
-I am currently a graduate student at the University of Tennessee working as a Graduate Teaching Assistant at the Tickle College of Engineering. I love exploring new technologies and applying them to solve real-world problems ✨. I’m particularly passionate about **Web Development**, **Machine Learning**, and **AI-driven applications**. I also enjoy collaborating on projects, sharing knowledge, and mentoring others in the tech community 💻.
+### About Me
+I’m a Master’s student in Computer Science at the University of Tennessee, Knoxville, currently serving as a Graduate Teaching Assistant at the Tickle College of Engineering. With a passion for solving real-world problems, I specialize in **Web Development**, **Machine Learning**, and **AI-driven applications**. My experience spans full-stack development, system administration, and data processing, with a focus on scalable, user-centric solutions. I thrive in collaborative environments and enjoy mentoring others in tech.
 
-![Tom and Jerry GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJiYTE3cG93aDBtOGNmdDYxNWZoNGFsN251ZXRnbXN0NG1jMTVqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZDtL1x5D4PfLMjSULv/giphy.gif)
-
-
-### **Talking about Personal Stuff:**
-- 🛠 I’m currently working on **Tectonify**, an AI-powered IT helpdesk solution that reduces response time and automates inquiries.
-- 🌱 I’m learning **TensorFlow** and diving deep into **Neural Networks**.
-- 👨🏻‍💻 All my contributions on GitHub are genuine.
-- 👾 Fun fact: I get rejected in all interviews(🥲).
-- 📫 How to reach me: [asharm42@vols.utk.edu](mailto:asharm42@vols.utk.edu)
-- 🚀 [My Portfolio Website is under construction, stay tuned!]
-  
-
-### **My Absolute Favorites:**
-- 💻 I love building responsive, interactive web applications with a focus on **UI/UX**.
-- 📰 I enjoy reading tech blogs and writing about my experiences solving real-world technical challenges.
-- 🍕 Hackathons and tech events keep me sharp, and I thrive on solving problems in collaborative settings.
-- 🎯 Fun fact: I’m currently learning **Spanish** on Duolingo, aiming for fluency soon!
-  
 ---
 
-### **Weapons of Choice:**
+### What I’m Working On
+- 🛠 **Tectonify**: A real-time IT helpdesk with an AI chatbot, built using React.js, Node.js, and Socket.IO, supporting 200+ concurrent users and automating 70% of queries.
+- 🌱 **Distracted Driver Detection**: An ML model using Python, TensorFlow, and Keras to classify distracted driving behaviors, optimized for real-time automotive safety.
+- 🔒 **PhishGators**: A cybersecurity tool with 97% accurate phishing detection, leveraging Gradient Boosting and real-time URL/HTML analysis.
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+---
+
+### Professional Highlights
+- **Graduate Teaching Assistant** (Jan 2025–Present): Teach C++ and Java, focusing on algorithms, data structures, and HCI, while mentoring 100+ students at Tickle College of Engineering.
+- **Assistant System Administrator** (Aug 2024–Jan 2025): Managed Linux-based backend systems with Java and Python, optimizing automation for 500+ daily requests at UT Knoxville’s Dept. of EECS.
+- **Web Developer** (Dec 2023–Aug 2024): Built scalable React.js/Node.js apps with APIs for 10,000+ users, boosting performance by 40% at UT’s Division of Student Success.
+- **Software & Accessibility Analyst** (Aug 2023–Jul 2024): Processed 1M+ records monthly with Python pipelines, enhancing tool performance by 20% at UT Libraries.
+- **Full-Stack Developer at Spring Pharmachem** (Apr 2021–May 2022): Developed Node.js/React systems for 1,000+ daily B2B transactions, integrating RESTful APIs to reduce latency by 30% and designing microservices for scalable order processing in a pharmaceutical supply chain.
+
+---
+
+### Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Core Skills**: Data Structures, Algorithms, Distributed Systems, APIs, Microservices, Multi-threading, Cybersecurity, UI/UX Design
+
+---
+
+### Get in Touch
+- 📫 Email: [asharm42@vols.utk.edu](mailto:asharm42@vols.utk.edu)
+- 🌐 Portfolio: [Under construction—stay tuned!]
+- 💬 I’m open to collaboration on innovative projects or discussions about tech trends!
+
+---
+
+### Interests
+-}$$
+
+ - Building responsive, scalable web applications with a focus on performance and accessibility.
+- 📚 Exploring advancements in machine learning and neural networks.
+- 🌍 Learning Spanish to connect with a broader tech community.
+- 🍕 Thriving in hackathons and tackling complex challenges with creative solutions.
+
+---
+
+*“Code is like poetry—elegant, efficient, and impactful when crafted with care.”*
