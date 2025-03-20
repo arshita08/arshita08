@@ -1,6 +1,7 @@
 # Hello! I’m Arshita Sharma 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-ArshitaSharma-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arshita-sharma)](https://www.linkedin.com/in/arshita-sharma)
+[![LinkedIn Badge](https://img.shields.io/badge/-ArshitaSharma-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arshita-sharma-217325132/)](https://www.linkedin.com/in/arshita-sharma-217325132/)
+
 [![GitHub Badge](https://img.shields.io/badge/-arshita08-black?style=flat&logo=github&logoColor=white&link=https://github.com/arshita08)](https://github.com/arshita08)
 
 ### About Me
