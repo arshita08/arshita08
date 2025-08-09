@@ -47,4 +47,3 @@ CNN-based library achieving 152 FPS with SIMD optimization.
 - 👥 Society of Women Engineers - 2+ years mentoring 50+ students
 
 ---
-*Open to opportunities in customer solutions engineering and technical consulting*
