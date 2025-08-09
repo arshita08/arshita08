@@ -1,62 +1,50 @@
-# Hello! I’m Arshita Sharma 👋
+# Arshita Sharma
 
-[![LinkedIn Badge](https://img.shields.io/badge/-ArshitaSharma-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arshita-sharma-217325132/)](https://www.linkedin.com/in/arshita-sharma-217325132/)
+MS Computer Science @ UT Knoxville | Ex-Amazon SDE Intern | Building scalable solutions in AI/ML and full-stack development
 
-[![GitHub Badge](https://img.shields.io/badge/-arshita08-black?style=flat&logo=github&logoColor=white&link=https://github.com/arshita08)](https://github.com/arshita08)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arshitasharma08/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:arshitasharma08@gmail.com)
 
-### About Me
-I’m a Master’s student in Computer Science at the University of Tennessee, Knoxville, currently serving as a Graduate Teaching Assistant at the Tickle College of Engineering. With a passion for solving real-world problems, I specialize in **Web Development**, **Machine Learning**, and **AI-driven applications**. My experience spans full-stack development, system administration, and data processing, with a focus on scalable, user-centric solutions. I thrive in collaborative environments and enjoy mentoring others in tech.
+## Experience
+**Software Engineer Intern @ Amazon** (May - Aug 2024)
+- Reduced support tickets by 70% using AI automation with IRIS and AWS
+- Built automated Slack bot and ticket response system serving enterprise clients
 
----
+**Software Engineer Intern @ Carma** (Jan - Mar 2025)  
+- Developed ad tech solutions for online advertising platform
+- Optimized campaign ROI through data analytics and SQL optimization
 
-### What I’m Working On
-- 🛠 **Tectonify**: A real-time IT helpdesk with an AI chatbot, built using React.js, Node.js, and Socket.IO, supporting 200+ concurrent users and automating 70% of queries.
-- 🌱 **Distracted Driver Detection**: An ML model using Python, TensorFlow, and Keras to classify distracted driving behaviors, optimized for real-time automotive safety.
-- 🔒 **PhishGators**: A cybersecurity tool with 97% accurate phishing detection, leveraging Gradient Boosting and real-time URL/HTML analysis.
+**Graduate Teaching Assistant @ University of Tennessee** (Jan 2025 - Present)
+- Teaching Java, Python, C++ to 50+ students
+- Leading technical discussions on software engineering best practices
 
----
+## Projects
 
-### Professional Highlights
-- **Graduate Teaching Assistant** (Jan 2025–Present): Teach C++ and Java, focusing on algorithms, data structures, and HCI, while mentoring 100+ students at Tickle College of Engineering.
-- **Assistant System Administrator** (Aug 2024–Jan 2025): Managed Linux-based backend systems with Java and Python, optimizing automation for 500+ daily requests at UT Knoxville’s Dept. of EECS.
-- **Web Developer** (Dec 2023–Aug 2024): Built scalable React.js/Node.js apps with APIs for 10,000+ users, boosting performance by 40% at UT’s Division of Student Success.
-- **Software & Accessibility Analyst** (Aug 2023–Jul 2024): Processed 1M+ records monthly with Python pipelines, enhancing tool performance by 20% at UT Libraries.
-- **Full-Stack Developer at Spring Pharmachem** (Apr 2021–May 2022): Developed Node.js/React systems for 1,000+ daily B2B transactions, integrating RESTful APIs to reduce latency by 30% and designing microservices for scalable order processing in a pharmaceutical supply chain.
+### 🚀 Enterprise Helpdesk Platform
+Real-time helpdesk with AI chatbot serving 500+ users. Reduced response time by 60%.
+- **Tech:** React.js, Node.js, MongoDB, Google OAuth, Socket.IO
+- **Impact:** Automated ticket routing and consultative support
 
----
+### 📊 Driver Safety Analytics
+ML model analyzing 22,000+ images with 86% accuracy for risk classification.
+- **Tech:** Python, TensorFlow, SQL, BigQuery
+- **Impact:** Real-time safety monitoring with business insights dashboard
 
-### Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+### ⚡ High-Performance Face Detection
+CNN-based library achieving 152 FPS with SIMD optimization.
+- **Tech:** C/C++, OpenCV, Multi-threading
+- **Impact:** Cross-platform solution for real-time video processing
 
-**Core Skills**: Data Structures, Algorithms, Distributed Systems, APIs, Microservices, Multi-threading, Cybersecurity, UI/UX Design
+## Skills
+**Languages:** Java, Python, C/C++, JavaScript, SQL, TypeScript  
+**Web:** React.js, Node.js, HTML, CSS, RESTful APIs  
+**Cloud/Data:** AWS, Google Cloud Platform, MongoDB, BigQuery  
+**ML/AI:** TensorFlow, Data Analytics, Natural Language Processing
 
----
-
-### Get in Touch
-- 📫 Email: [asharm42@vols.utk.edu](mailto:asharm42@vols.utk.edu)
-- 🌐 Portfolio: [Under construction—stay tuned!]
-- 💬 I’m open to collaboration on innovative projects or discussions about tech trends!
-
----
-
-### Interests
--}$$
-
- - Building responsive, scalable web applications with a focus on performance and accessibility.
-- 📚 Exploring advancements in machine learning and neural networks.
-- 🌍 Learning Spanish to connect with a broader tech community.
-- 🍕 Thriving in hackathons and tackling complex challenges with creative solutions.
+## Recognition
+- 🏆 2nd Place ($3,000) - UT Graves Business Competition
+- 🎓 Paladin CISO Scholar - Duke AI and Security Certificate
+- 👥 Society of Women Engineers - 2+ years mentoring 50+ students
 
 ---
-
-*“Code is like poetry elegant, efficient, and impactful when crafted with care.”*
+*Open to opportunities in customer solutions engineering and technical consulting*
