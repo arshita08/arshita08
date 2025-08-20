@@ -5,18 +5,7 @@ MS Computer Science @ UT Knoxville | Ex-Amazon SDE Intern | Building scalable so
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arshitasharma08/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:arshitasharma08@gmail.com)
 
-## Experience
-**Software Engineer Intern @ Amazon** (May - Aug 2024)
-- Reduced support tickets by 70% using AI automation with IRIS and AWS
-- Built automated Slack bot and ticket response system serving enterprise clients
 
-**Software Engineer Intern @ Carma** (Jan - Mar 2025)  
-- Developed ad tech solutions for online advertising platform
-- Optimized campaign ROI through data analytics and SQL optimization
-
-**Graduate Teaching Assistant @ University of Tennessee** (Jan 2025 - Present)
-- Teaching Java, Python, C++ to 50+ students
-- Leading technical discussions on software engineering best practices
 
 ## Projects
 
