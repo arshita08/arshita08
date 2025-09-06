@@ -2,7 +2,7 @@
 
 MS Computer Science @ UT Knoxville | Ex-Amazon SDE Intern | Building scalable solutions in AI/ML and full-stack development
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arshitasharma08/)
+
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:arshitasharma08@gmail.com)
 
 
